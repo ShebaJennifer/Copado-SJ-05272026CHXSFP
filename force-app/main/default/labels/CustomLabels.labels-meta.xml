@@ -7,4 +7,11 @@
         <shortDescription>How are you</shortDescription>
         <value>I am Fine</value>
     </labels>
+    <labels>
+        <fullName>Label_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 1</shortDescription>
+        <value>Value 1</value>
+    </labels>
 </CustomLabels>
