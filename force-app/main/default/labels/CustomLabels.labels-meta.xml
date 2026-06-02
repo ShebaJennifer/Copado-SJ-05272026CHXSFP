@@ -14,4 +14,11 @@
         <shortDescription>Label 2</shortDescription>
         <value>Value 2</value>
     </labels>
+    <labels>
+        <fullName>Label_5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 5</shortDescription>
+        <value>Value 5</value>
+    </labels>
 </CustomLabels>
