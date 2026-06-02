@@ -35,4 +35,11 @@
         <shortDescription>Label 5</shortDescription>
         <value>Value 5</value>
     </labels>
+    <labels>
+        <fullName>Label_9</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 9</shortDescription>
+        <value>Value 9</value>
+    </labels>
 </CustomLabels>
