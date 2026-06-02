@@ -15,6 +15,13 @@
         <value>Value 2</value>
     </labels>
     <labels>
+        <fullName>Label_4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 4</shortDescription>
+        <value>Value 4</value>
+    </labels>
+    <labels>
         <fullName>Label_5</fullName>
         <language>en_US</language>
         <protected>false</protected>
